@@ -1,0 +1,44 @@
+{
+    "release_pashenkov": {
+        "head": "Бурятский укротитель",
+        "png": "https://i.imgur.com/rV821yN",
+        "link": "https://wow.mat6tube.com",
+        "description": "Масик залез в клетку к бурятам.\nСтавь лайк, если болеешь за клетку.",
+        "unic": 1
+    },
+    "releasev3": {
+        "head": "Узкий глаз",
+        "png": "https://i.imgur.com/rV821yN",
+        "link": "https://wow.mat6tube.com",
+        "description": "Денчик прищурился так сильно,\nчто случайно увидел будущее без долгов.",
+        "unic": 1
+    },
+    "Arelease_pashenkovA": {
+        "head": "Шоколадная жилка",
+        "png": "https://i.imgur.com/rV821yN",
+        "link": "https://wow.mat6tube.com",
+        "description": "Масик нашел ту самую жилку.\nВрачи говорят — это лечится, но дорого.",
+        "unic": 1
+    },
+    "release_youtuber": {
+        "head": "Страх бурятов",
+        "png": "https://i.imgur.com/rV821yN",
+        "link": "https://wow.mat6tube.com",
+        "description": "Денчик зашел в юрту без стука.\nТеперь его ищут по всей степи.",
+        "unic": 1
+    },
+    "aher_youtube": {
+        "head": "На острове ебали",
+        "png": "https://i.imgur.com/rV821yN",
+        "link": "https://wow.mat6tube.com",
+        "description": "Масика и Денчика высадили на остров.\nСкрипт выжил, пацаны — нет.",
+        "unic": 1
+    },
+    "newReview": {
+        "head": "Узкие джинсы",
+        "png": "https://i.imgur.com/rV821yN",
+        "link": "https://wow.mat6tube.com",
+        "description": "Денчик влез в джинсы сестры.\nГолос стал выше, зато скрипт быстрее!",
+        "unic": 1
+    }
+}
